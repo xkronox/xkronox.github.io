@@ -1,14 +1,4 @@
-class{
-    probando brackets2{
-        uno{
-            {
-                dostres
-<<<<<<< HEAD
-17            }
-=======
-                18
-            }
->>>>>>> afa693a1e670691e701024d16c055ae4efcc4123
-        }
-    }
+body{
+    background-color: rebeccapurple;
+    color: white;
 }
